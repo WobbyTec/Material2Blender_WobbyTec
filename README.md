@@ -1,4 +1,5 @@
-# Material2Blender_WobbyTec DOWNLOAD HERE: https://github.com/WobbyTec/Material2Blender_WobbyTec/releases
+# Material2Blender_WobbyTec 
+DOWNLOAD HERE: https://github.com/WobbyTec/Material2Blender_WobbyTec/releases
 This program allows you to export a mesh/shape from the GIANTS Editor and create all materials in an importable OBJ file for Blender. After importing it into Blender, you have the model with all materials which available...
 Its alowed to cut any Parts from the imported Modell in Blender and export an bring back into the GIANTS Editor with Materials.
 You can change Material or colors in Blender and bring back it with all Informations to GIANTS Editor. 
